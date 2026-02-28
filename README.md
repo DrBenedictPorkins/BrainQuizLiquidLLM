@@ -6,6 +6,12 @@ Built with Swift 6, SwiftUI, and Swift Concurrency.
 
 ---
 
+## Demo
+
+[![Demo Video](https://img.youtube.com/vi/9bydWcidsTE/maxresdefault.jpg)](https://youtu.be/9bydWcidsTE)
+
+---
+
 ## Screenshots
 
 <p align="center">
